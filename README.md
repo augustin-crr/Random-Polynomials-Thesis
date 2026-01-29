@@ -14,7 +14,8 @@ The central objective of this work is to determine the expected number of real z
 
 ## Repository Structure
 - `TER_CARRE_Augustin.pdf`: The full Master's thesis (in French).
-- `src/`: (Optional) Contains scripts used for root distribution simulations (Matlab/Python).
+- `Presentation_Random_Polynomials.pdf`: Beamer presentation summarizing the key findings and geometric proofs.
+- `src/`: (Optional) Contains scripts used for root distribution simulations (Python).
 
 ## Technologies & Mathematics
 - **Concepts**: Stochastic processes, Gaussian fields, Complex Analysis, Asymptotic Analysis.
